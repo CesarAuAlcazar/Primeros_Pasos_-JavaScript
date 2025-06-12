@@ -124,6 +124,7 @@ for(p2 = 0; p2 <=50; p2++) {
         console.log(p2)
     }
 }
+console.log("************************************************")
 
 // Con un array de nombres, usa un bucle para imprimir todos los nombres
 
@@ -139,3 +140,25 @@ for(p2 = 0; p2 <=50; p2++) {
 
 // Con un array de números, usa un bucle para crear un nuevo array con los números mayores de 10
 
+
+
+
+// Crea un bucle que imprima los números del 1 al 20
+
+// Crea un bucle que sume todos los números del 1 al 100
+
+// Crea un bucle con todos los números pares entre 1 y 50
+
+// Con un array de nombres, usa un bucle para imprimir todos los nombres
+
+// Usa un bucle para contar las vocales de una cadena de texto
+
+// Con un array de números, usa un bucle para multiplicar todos los numeros del array
+
+// Escribe un bucle con la tabla del 5
+
+// Usa un bucle para invertir una cadena de texto
+
+// Usa un bucle para con los 10 primeros números de Fibonacci
+
+// Con un array de números, usa un bucle para crear un nuevo array con los números mayores de 10
