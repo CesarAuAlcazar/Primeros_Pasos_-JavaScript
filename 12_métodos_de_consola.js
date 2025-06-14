@@ -21,7 +21,6 @@ console.table(datos);
 console.table(datos);
 console.log("************************************************");
 
-
 // Utiliza un group
 
 console.group("Paises");
