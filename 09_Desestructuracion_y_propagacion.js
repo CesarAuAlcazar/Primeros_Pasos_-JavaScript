@@ -85,6 +85,7 @@ let ciudades3 = {
     cuarta: "Ekaterimburgo"
 }
 
+
 let ciudades4 = {...ciudades, ...ciudades3}
 console.log(ciudades4)
 console.log("***********ciudades3*************************************")

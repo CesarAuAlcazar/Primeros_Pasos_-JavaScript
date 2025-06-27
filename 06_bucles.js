@@ -17,11 +17,13 @@ console.log("************************************************")
 
 // Crea un bucle con todos los números pares entre 1 y 50
 
+let resuSuma = 0
 for(let pares = 1; pares <= 50; pares++){
     if (pares % 2 == 0){
-        console.log(pares)
+        resuSuma += pares
     }
 }
+console.log(resuSuma)
 console.log("************************************************")
 
 // Con un array de nombres, usa un bucle para imprimir todos los nombres
@@ -57,7 +59,7 @@ console.log("************************************************")
 
 // Escribe un bucle con la tabla del 5
 
-for (tabla = 0; tabla <=10; tabla++){
+for (tabla = 0; tabla <= 10; tabla++){
     const total = 5 * tabla
     console.log(`La tabla del 5 es: ${tabla} * 5 = ${total}`)
 }
@@ -153,7 +155,7 @@ console.log("************************************************")
 
 // Usa un bucle para contar las vocales de una cadena de texto
 
-// Con un array de números, usa un bucle para multiplicar todos los numeros del array
+// Con un array de números, usa un bucle para multiplicar todos los números del array
 
 // Escribe un bucle con la tabla del 5
 

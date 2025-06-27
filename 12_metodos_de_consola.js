@@ -23,7 +23,7 @@ console.log("************************************************");
 
 // Utiliza un group
 
-console.group("Paises");
+console.group("Países");
 console.log("Pais: España");
 console.log("Capital: Madrid");
 console.log("Población: 45000000");
@@ -32,11 +32,13 @@ console.log("************************************************");
 
 // Utiliza un time
 
+/*
 console.time("¿Cuanto tarda en ejecutarse?");
-for (let i = 0; i <= 10000; i++);
-console.timeEnd("¿Cuanto tarda en ejecutarse?");
+for (let i = 0; i <= 10000; i++) {
+    console.timeEnd("¿Cuanto tarda en ejecutarse?");
+}
 console.log("************************************************");
-
+*/
 // Valida con assert si un número es positivo
 
 console.assert();

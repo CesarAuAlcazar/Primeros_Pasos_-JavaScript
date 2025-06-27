@@ -78,7 +78,7 @@ function primo(numero2) {
     return true
 }
 
-console.log(primo(1))
+console.log(primo(29))
 console.log("************************************************")
 
 // Crea una función que reciba dos arrays y devuelva otro con los elementos comunes de ambos
